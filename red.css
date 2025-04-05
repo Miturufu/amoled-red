@@ -1,0 +1,7 @@
+:root {
+    --growth-bg: #d40000;
+    --growth-bg-hover: #f80000;
+    --growth-border: #d40000;
+    --growth-border-hover: #f80000;
+    --checkmark-filter: hue-rotate(390deg);
+}
